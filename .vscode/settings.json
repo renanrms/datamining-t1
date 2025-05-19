@@ -11,12 +11,12 @@
         "./src"
     ],
     "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
+        "editor.defaultFormatter": "ms-python.black-formatter"
     },
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "cSpell.language": "en,pt-BR",
