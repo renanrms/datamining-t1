@@ -1,9 +1,27 @@
 {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit",
+        "source.fixAll": "explicit"
+    },
+    "python.autoComplete.extraPaths": [
+        "./src"
+    ],
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
   "editor.tabSize": 2,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "cSpell.language": "en,pt-BR",
   "cSpell.dictionaries": [
     "python"
-  ]
+],
+"python.analysis.typeCheckingMode": "standard"
 }
