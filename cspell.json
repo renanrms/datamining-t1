@@ -4,13 +4,17 @@
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
+        "annot",
         "CAEC",
+        "descomentando",
         "FAVC",
         "FCVC",
         "Kaggle",
         "MTRANS",
         "Obeyesdad",
-        "overfitting"
+        "overfitting",
+        "xticklabels",
+        "yticklabels"
     ],
     "ignoreWords": [],
     "import": []
