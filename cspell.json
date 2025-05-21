@@ -26,6 +26,7 @@
         "overfitting",
         "pairplot",
         "renanrms",
+        "toarray",
         "triu",
         "vmax",
         "xlabel",
